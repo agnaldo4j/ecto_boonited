@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EctoBoonited
 
 **TODO: Add description**
@@ -17,3 +18,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
         def application do
           [applications: [:ecto_boonited]]
         end
+=======
+# ecto_boonited
+Exemplo de acesso a base de dados mysql com ecto usando id com uuid gerado pelo aplicativo
+>>>>>>> e77b470fc6dddc7b11c63e171d7d5a7b85dbdc74
